@@ -24,6 +24,7 @@ branches:
   only:
     - master
     - develop
+    - feature/repo-4901-4904_super-pom
 
 stages:
   - name: test
